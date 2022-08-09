@@ -12,8 +12,8 @@ For this analysis, python programming language was used on jupyter notebook fram
 
 ## Files
 Files in th repository include;
-Demilade_movie_Data_updated.ipynb: A jupyter notebook file that contains the python code
-tmdb-movies.csv: A csv file that contains the data set
+- Demilade_movie_Data_updated.ipynb: A jupyter notebook file that contains the python code
+- tmdb-movies.csv: A csv file that contains the data set
 
 
 ## Exploration
